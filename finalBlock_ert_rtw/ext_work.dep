@@ -1,0 +1,28 @@
+ext_work.o: F:/MatLab/rtw/c/src/ext_mode/common/ext_work.c \
+ F:/Coding/ControlProjects/ArmFinalCopy/finalBlock_ert_rtw/rtwtypes.h \
+ F:/MatLab/simulink/include/rtw_extmode.h \
+ F:/MatLab/rtw/c/src/ext_mode/common/ext_types.h \
+ F:/MatLab/rtw/c/src/ext_mode/common/ext_share.h \
+ F:/MatLab/rtw/c/src/ext_mode/common/updown.h \
+ F:/MatLab/rtw/c/src/ext_mode/common/upsup_public.h \
+ F:/MatLab/rtw/c/src/ext_mode/common/ext_svr.h \
+ F:/MatLab/rtw/c/src/ext_mode/common/ext_svr_transport.h \
+ F:/MatLab/rtw/c/src/ext_mode/common/ext_work.h
+
+F:/Coding/ControlProjects/ArmFinalCopy/finalBlock_ert_rtw/rtwtypes.h:
+
+F:/MatLab/simulink/include/rtw_extmode.h:
+
+F:/MatLab/rtw/c/src/ext_mode/common/ext_types.h:
+
+F:/MatLab/rtw/c/src/ext_mode/common/ext_share.h:
+
+F:/MatLab/rtw/c/src/ext_mode/common/updown.h:
+
+F:/MatLab/rtw/c/src/ext_mode/common/upsup_public.h:
+
+F:/MatLab/rtw/c/src/ext_mode/common/ext_svr.h:
+
+F:/MatLab/rtw/c/src/ext_mode/common/ext_svr_transport.h:
+
+F:/MatLab/rtw/c/src/ext_mode/common/ext_work.h:

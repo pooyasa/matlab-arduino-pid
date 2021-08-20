@@ -1,0 +1,11 @@
+rtiostream_utils.o: \
+ F:/MatLab/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ F:/MatLab/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ F:/Coding/ControlProjects/ArmFinalCopy/finalBlock_ert_rtw/rtwtypes.h \
+ F:/MatLab/rtw/c/src/rtiostream.h
+
+F:/MatLab/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+F:/Coding/ControlProjects/ArmFinalCopy/finalBlock_ert_rtw/rtwtypes.h:
+
+F:/MatLab/rtw/c/src/rtiostream.h:

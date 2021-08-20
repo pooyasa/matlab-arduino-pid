@@ -1,0 +1,23 @@
+rtiostream_interface.o: \
+ F:/MatLab/rtw/c/src/ext_mode/common/rtiostream_interface.c \
+ F:/MatLab/rtw/c/src/ext_mode/common/updown_util.h \
+ F:/Coding/ControlProjects/ArmFinalCopy/finalBlock_ert_rtw/rtwtypes.h \
+ F:/MatLab/simulink/include/rtw_extmode.h \
+ F:/MatLab/rtw/c/src/rtiostream.h \
+ F:/MatLab/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ F:/MatLab/rtw/c/src/ext_mode/common/ext_types.h \
+ F:/MatLab/rtw/c/src/ext_mode/common/ext_share.h
+
+F:/MatLab/rtw/c/src/ext_mode/common/updown_util.h:
+
+F:/Coding/ControlProjects/ArmFinalCopy/finalBlock_ert_rtw/rtwtypes.h:
+
+F:/MatLab/simulink/include/rtw_extmode.h:
+
+F:/MatLab/rtw/c/src/rtiostream.h:
+
+F:/MatLab/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+F:/MatLab/rtw/c/src/ext_mode/common/ext_types.h:
+
+F:/MatLab/rtw/c/src/ext_mode/common/ext_share.h:
